@@ -145,8 +145,6 @@ Follow the on screen prompts to select categories and tutorials.
 
 <img width="787" height="97" alt="image" src="https://github.com/user-attachments/assets/8647b397-752d-4a3b-803f-b83509babe94" />
 
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8d848d34-4f02-41b2-bcf8-6b88addd3e5b" />
-
 
 ---
 
