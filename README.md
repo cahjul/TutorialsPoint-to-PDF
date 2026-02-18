@@ -137,6 +137,19 @@ Follow the on screen prompts to select categories and tutorials.
 
 ---
 
+## 📸 Screenshots
+
+<img width="1918" height="297" alt="image" src="https://github.com/user-attachments/assets/f5d77d23-98f4-412f-b278-5ab7abe49267" />
+
+<img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/e9ca809c-60f0-4084-a280-06d390fba8ea" />
+
+<img width="787" height="97" alt="image" src="https://github.com/user-attachments/assets/8647b397-752d-4a3b-803f-b83509babe94" />
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8d848d34-4f02-41b2-bcf8-6b88addd3e5b" />
+
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is intended for educational and personal use only.
