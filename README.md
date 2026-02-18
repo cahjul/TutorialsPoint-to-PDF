@@ -106,8 +106,8 @@ sudo apt install libcairo2 pango1.0-tools libgdk-pixbuf2.0-0 libffi-dev
 
 ```bash
 git clone https://github.com/cahjul/TutorialsPoint-to-PDF.git
-cd tutorialspoint-scraper
-python main.py
+cd TutorialsPoint-to-PDF
+python TutorialsPoint-to-PDF.py
 ```
 
 Follow the on screen prompts to select categories and tutorials.
