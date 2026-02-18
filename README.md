@@ -167,4 +167,5 @@ Fork the repository and submit a pull request.
 ## 👤 Credits
 
 Project Author: Cahjul
-README and technical assistance by ChatGPT ❤️
+
+Technical/ReadMe by: ChatGPT ❤️
